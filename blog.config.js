@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '兜兜', // 作者
   BIO: '一个普通的干饭人🍚', // 作者简介
-  LINK: 'http://blog.coo0.com', // 网站地址
+  LINK: 'https://blog.coo0.com', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || 'aed01454dd644488aa0f6a05189f0697', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
